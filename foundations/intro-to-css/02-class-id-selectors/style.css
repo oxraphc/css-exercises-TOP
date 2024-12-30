@@ -1,0 +1,19 @@
+.odd-el {
+    background-color: #ffa5a5;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num-2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd-el.num-3 {
+    font-size: 24px;
+}
+
+#num-4 {
+    background-color: #68e67d;
+    font-size: 24px;
+    font-weight: bold;
+}
