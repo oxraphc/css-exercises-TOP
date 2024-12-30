@@ -4,7 +4,7 @@
     assignment require me to use group selectors instead.
 */
 
-.main button,
+.main-button,
 .second-button {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
